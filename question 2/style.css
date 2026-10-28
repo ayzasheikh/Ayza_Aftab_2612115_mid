@@ -1,0 +1,17 @@
+body{
+    height:100vh;
+  
+}
+.header{
+    display: flex;
+   justify-content: space-between;
+    border: 2px solid black;
+    border-radius: 2px;
+
+}
+.nav{
+    display: flex;
+    align-items: center;
+
+    gap: 20px;
+} 
